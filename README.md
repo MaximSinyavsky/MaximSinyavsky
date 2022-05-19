@@ -18,7 +18,7 @@
 <a href="https://git-scm.com/" title="Git"><img src="./icons/git.png" /></a>
 <a href="https://code.visualstudio.com/" title="vscode"><img src="./icons/vscode.png" /></a>
 <a href="https://www.javascript.com/" title="javascript"><img src="./icons/javascript.png" /></a>
-<a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" /></a>
+<a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" width="50"/></a>
 
 **Courses and Certificates**
 
