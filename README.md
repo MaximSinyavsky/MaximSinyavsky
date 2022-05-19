@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1 align="center">Hi there! 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <a href="mailto:razarsinet1991@gmail.com" title="Mail"><img src="./icons/gmail.png" width="30"/></a>
 <a href="https://t.me/MaximSinyavsky" title="Telegram"><img src="./icons/telegram.png" width="30"/></a>
