@@ -8,28 +8,34 @@
 
 Меня зовут Максим. В данный момент прохожу обучение по [авторским курсам тестирования ПО Вадима Ксендзова.](https://github.com/MaximSinyavsky/Vadim_Ksendzov_course). 
 
-🎯 В ближайшем будующем я планирую:
-
+***🎯 В ближайшем будующем я планирую:***
+<!--
+<img src="https://new-retail.ru/upload/iblock/7e6/x7e65c97e2bf09a0845f40d0f0ee47a94.jpg.pagespeed.ic.TWa2nb_1TR.jpg" width="120" align="left" />
+-->
 * Cтать частью крутой команды
 * Поднять свои навыки ручного тестирования на более высокий уровень
 * Изучить автоматизацию тестирования
 
-**Languages and tools:**
+***Languages and tools:***
 
 <p align="left">
-     <code><href="https://www.kernel.org/"><title="Linux"><img src="./icons/linux.png"/></code>
-     <code><href="https://git-scm.com/" title="GitHub"><img src="./icons/github.png"/></code>
-     <code><href="https://code.visualstudio.com/" title="vscode"><img src="./icons/vscode.png"/></code>
-     <code><href="https://www.javascript.com/" title="javascript"><img src="./icons/javascript.png"/></code>
-     <code><href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" width="50"/></code>
+	<code><a href="https://www.kernel.org/"><title="Linux"><img src="./icons/linux.png"/></a></code>
+	<code><a href="https://git-scm.com/"><title="git"><img src="./icons/git.png"/></a></code>
+	<code><a href="https://git-scm.com/" title="GitHub"><img src="./icons/github.png"/></a></code>
+	<code><a href="https://code.visualstudio.com/" title="vscode"><img src="./icons/vscode.png"/></a></code>
+	<code><a href="https://www.javascript.com/" title="javascript"><img src="./icons/javascript.png"/></a></code>
+	<code><a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" width="50"/></a></code>
 </p>
 
 
-**Courses and Certificates:**
+***Courses and Certificates:***
 
 * [Stepik. Интерактивный тренажер по SQL.](https://stepik.org/cert/1441117)
 * [Stepik. JavsScript для начинающих.](https://stepik.org/cert/1496411)
 
+          
+          
+          
 <!--
 **MaximSinyavsky/MaximSinyavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
