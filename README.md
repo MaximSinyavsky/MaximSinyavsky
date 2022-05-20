@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi there! 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/images/header.svg"></img>
 
 <a href="https://t.me/MaximSinyavsky" title="Telegram"><img src="./icons/telegram.png" width="30"/></a>
 <a href="https://www.linkedin.com/mwlite/in/maxim-sinyavsky-42b220234" title="LinkedIn"><img src="./icons/linkedin.png" width="30"/></a>
