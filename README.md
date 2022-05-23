@@ -19,7 +19,7 @@
 <p align="left">
 	<code><a href="https://www.kernel.org/"><title="Linux"><img src="./icons/linux.png"/></a></code>
 	<code><a href="https://git-scm.com/"><title="git"><img src="./icons/git.png"/></a></code>
-	<code><a href="https://git-scm.com/" title="GitHub"><img src="./icons/github.png"/></a></code>
+	<code><a href="https://github.com/" title="GitHub"><img src="./icons/github.png"/></a></code>
 	<code><a href="https://code.visualstudio.com/" title="vscode"><img src="./icons/vscode.png"/></a></code>
 	<code><a href="https://www.javascript.com/" title="javascript"><img src="./icons/javascript.png"/></a></code>
 	<code><a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" width="50"/></a></code>
