@@ -3,6 +3,8 @@
 <a href="https://t.me/MaximSinyavsky" title="Telegram"><img src="./icons/telegram.png" width="30"/></a>
 <a href="https://www.linkedin.com/mwlite/in/maxim-sinyavsky-42b220234" title="LinkedIn"><img src="./icons/linkedin.png" width="30"/></a>
 <a href="mailto:razarsinet1991@gmail.com" title="Mail"><img src="./icons/gmail.png" width="30"/></a>
+<a href="https://omsk.hh.ru/applicant/resumes/view?resume=2a9d6076ff08f5e6c80039ed1f487943595661" title="HeadHunter"><img src="./icons/headhunter.png" width="32"/></a>
+
 
 Меня зовут Максим. В данный момент прохожу обучение по [авторским курсам тестирования ПО Вадима Ксендзова.](https://github.com/MaximSinyavsky/Vadim_Ksendzov_course). 
 
