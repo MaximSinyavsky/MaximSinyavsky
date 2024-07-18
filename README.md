@@ -17,9 +17,14 @@
 <div id="badges" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=500&color=blue&center=true&vCenter=true&width=455&height=60&lines=Привет!+меня+зовут+Максим+Синявский;Я+QA+Engineer;I'm+very+glad+to+see+you+on+my+GitHub;I+strive+to+work+on+my+repositories;Every+day;To+make+my+portfolio;look+attractive+to+you :)" alt="Typing SVG" /></a>
 </div>
+-->
+<!--
+# Привет всем!
+<!--
+Меня зовут Максим!
+Я QA engineer и данный профиль посвящен моим наработкам и решениям в рамках самостоятельного изучения и обучения по курсам.
 
-
-
+-->
 <!--
 ---
 <div id="badges" align="center">
