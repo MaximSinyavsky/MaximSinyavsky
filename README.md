@@ -1,58 +1,32 @@
-# Привет!
 <!--
- <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/images/header.svg"></img>
--->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="170"/>
+</div>
 
-Меня зовут Максим. Данный профиль посвящен моим наработкам и решениям в рамках самостоятельного изучения тестирования и обучения по курсам.
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/maxim-sinyavsky-42b220234/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/MaximSinyavsky">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="https://kaliningrad.hh.ru/resume/2a9d6076ff08f5e6c80039ed1f487943595661?hhtmFrom=resume_list">
+    <img src="https://img.shields.io/badge/HH-blue?style=for-the-badge&logo=internet&logoColor=white" alt="HH Badge"/>
+  </a>
+</div>
 
-***🎯 В ближайшем будующем я планирую:***
+<div id="badges" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&weight=600&pause=500&color=blue&center=true&vCenter=true&width=455&height=60&lines=Привет!+меня+зовут+Максим+Синявский;Я+QA+Engineer;I'm+very+glad+to+see+you+on+my+GitHub;I+strive+to+work+on+my+repositories;Every+day;To+make+my+portfolio;look+attractive+to+you :)" alt="Typing SVG" /></a>
+</div>
+
+
+
+
+Results-driven and strong attention-to-detail. Passionate about testing software applications. Unfortunately, I did not get inherited estates and capitals, therefore I am devilishly hardworking! Ability to learn quickly, often under high deadlines, to fully understand a new product or platform. Great problem solving skills and ability to perform work well in a team. I have experience in commercial projects where I have acquired teamwork and leadership skills. I know 4 words in French and 2 in Spanish (not counting the numbers)
+
 <!--
-<img src="https://new-retail.ru/upload/iblock/7e6/x7e65c97e2bf09a0845f40d0f0ee47a94.jpg.pagespeed.ic.TWa2nb_1TR.jpg" width="120" align="left" />
--->
-* Cтать частью крутой команды;
-* Поднять свои навыки ручного тестирования на более высокий уровень;
-* Изучить автоматизацию тестирования.
-
-<!--
-***Languages and tools:***
-
-<p align="left">
-	<code><a href="https://www.kernel.org/"><title="Linux"><img src="./icons/linux.png"/></a></code>
-	<code><a href="https://git-scm.com/"><title="git"><img src="./icons/git.png"/></a></code>
-	<code><a href="https://github.com/" title="GitHub"><img src="./icons/github.png"/></a></code>
-	<code><a href="https://code.visualstudio.com/" title="vscode"><img src="./icons/vscode.png"/></a></code>
-	<code><a href="https://www.javascript.com/" title="javascript"><img src="./icons/javascript.png"/></a></code>
-	<code><a href="https://www.postman.com/" title="Postman"><img src="./icons/postman.png" width="50"/></a></code>
-</p>
-
-
-***Courses and Certificates:***
-
-* [Stepik. Интерактивный тренажер по SQL.](https://stepik.org/cert/1441117)
-* [Stepik. JavsScript для начинающих.](https://stepik.org/cert/1496411)
-
--->
-
-***Для связи:***
-
-<a href="https://t.me/MaximSinyavsky" title="Telegram"><img src="./icons/telegram.png" width="30"/></a>
-<a href="https://www.linkedin.com/mwlite/in/maxim-sinyavsky-42b220234" title="LinkedIn"><img src="./icons/linkedin.png" width="30"/></a>
-<a href="mailto:razarsinet1991@gmail.com" title="Mail"><img src="./icons/gmail.png" width="30"/></a>
-<a href="https://omsk.hh.ru/applicant/resumes/view?resume=2a9d6076ff08f5e6c80039ed1f487943595661" title="HeadHunter"><img src="./icons/headhunter.png" width="32"/></a>
-          
-          
-          
-<!--
-**MaximSinyavsky/MaximSinyavsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+<div id="badges" align="center">
+:hammer_and_wrench: Hard skills :hammer_and_wrench:
+</div>
 -->
