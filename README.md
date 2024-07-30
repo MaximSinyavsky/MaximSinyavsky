@@ -8,15 +8,12 @@
 
 
 ### Follow me:
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoSize=auto)](https://t.me/MaximSinyavsky)
-[![Linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoSize=auto)
+[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue&logoSize=auto)
+](https://t.me/MaximSinyavsky)
+[![Static Badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=blue&logoSize=auto)
 ](https://www.linkedin.com/in/maxim-sinyavsky-42b220234/)
-
-
-
-
-
-
+[![MY CV](https://img.shields.io/badge/My%20CV-black?style=for-the-badge&logo=readme&logoColor=blue&logoSize=auto)
+](https://kaliningrad.hh.ru/resume/2a9d6076ff08f5e6c80039ed1f487943595661?hhtmFrom=resume_list)
 
 
 <div id="header" align="center">
