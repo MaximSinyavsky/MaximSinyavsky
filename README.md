@@ -1,4 +1,4 @@
-## Hello. My name Maxim Sinyavsky and I'm beginner QA engeneer!
+## Hello. My name Maxim Sinyavsky and I'm QA engeneer!
 
 
 
