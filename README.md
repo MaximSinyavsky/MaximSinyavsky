@@ -12,7 +12,7 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="170"/>
 </div>
 
-## Certificates:
+# Certificates:
 
 <div align="center">
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/">
