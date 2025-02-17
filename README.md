@@ -74,6 +74,7 @@
 ![Static Badge](https://img.shields.io/badge/devtools-black?style=for-the-badge&logo=googlechrome&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/newman-black?style=for-the-badge&logo=newman&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/dbeaver-black?style=for-the-badge&logo=dbeaver&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=blue&logoSize=auto)
