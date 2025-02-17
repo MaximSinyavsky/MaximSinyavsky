@@ -39,7 +39,6 @@
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png">
   <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png" alt="testing theory" width="100">
   </a>
-
   </div>
 
 # 📊 GitHub Stats:
