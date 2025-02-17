@@ -42,11 +42,13 @@
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png">
   <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png" alt="SQL" width="100">
   </a>
-  
+
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png">
   <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png" alt="testing theory" width="100">
   </a>
-
+  
+  <br>
+  
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-interactive-SQL-trainer.png">
   <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-interactive-SQL-trainer.png" alt="SQL" width="90">
   </a>
