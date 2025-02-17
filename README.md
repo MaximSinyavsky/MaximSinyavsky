@@ -4,11 +4,6 @@
 
 В данный момент активно изучаю Java и основы автоматизации тестирования c применением данного языка и планирую дальнейшее развитие в этом направлении, а также развивать навыки в области CI/CD.
 
-
-
-
-
-
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="170"/>
   
@@ -67,6 +62,9 @@
   </a>
   
   </div>
+
+# Skills:
+
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
