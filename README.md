@@ -99,8 +99,13 @@
 ![Static Badge](https://img.shields.io/badge/junite5-black?style=for-the-badge&logo=junite5&logoColor=blue&logoSize=auto)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaximSinyavsky&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&layout=compact&theme=shadow_blue)
+
+
+
+
+
 
 
