@@ -15,24 +15,35 @@
 # 📃Certificates:
 
 <div align="center">
-  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/">
-    <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-git.png" alt="Git" width="100">
+  
+  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-final.png">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-final.png" alt="final" width="100">
+  </a>  
+  
+  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-git.png">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-git.png" alt="Git" width="100">
   </a>
-  <a href="https://github.com/username/project2">
-    <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-linux-terminal.png" alt="Linux terminal" width="100">
+  
+  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-linux-terminal.png">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-linux-terminal.png" alt="Linux terminal" width="100">
   </a>
-  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/">
-    <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-postman.png" alt="Postman" width="100">
+  
+  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-postman.png">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-postman.png" alt="Postman" width="100">
   </a>
-    <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/">
-    <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png" alt="SQL" width="100">
+  
+  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png" alt="SQL" width="100">
   </a>
-    <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/">
-    <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png" alt="testing theory" width="100">
+  
+  <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png" alt="testing theory" width="100">
   </a>
   </div>
-
+  <a href="">
+  <img src="" alt="" width="100">
+  </a>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaximSinyavsky&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
