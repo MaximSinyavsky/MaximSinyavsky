@@ -68,7 +68,35 @@
   </div>
   
 # 🛠 Skills
-
+![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/githubactions-black?style=for-the-badge&logo=githubactions&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/devtools-black?style=for-the-badge&logo=googlechrome&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/newman-black?style=for-the-badge&logo=newman&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/dbeaver-black?style=for-the-badge&logo=dbeaver&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/charles-black?style=for-the-badge&logo=charles&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/fiddler-black?style=for-the-badge&logo=fiddler&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/jmeter-black?style=for-the-badge&logo=apachejmeter&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/qase-black?style=for-the-badge&logo=qase&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/googledocs-black?style=for-the-badge&logo=googledocs&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/confluence-black?style=for-the-badge&logo=confluence&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/sentry-black?style=for-the-badge&logo=sentry&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/datadog-black?style=for-the-badge&logo=datadog&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/kibana-black?style=for-the-badge&logo=kibana&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/grafana-black?style=for-the-badge&logo=grafana&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/markdown-black?style=for-the-badge&logo=markdown&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/intellijidea-black?style=for-the-badge&logo=intellijidea&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/selenide-black?style=for-the-badge&logo=selenide&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/restassured-black?style=for-the-badge&logo=restassured&logoColor=blue&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/junite5-black?style=for-the-badge&logo=junite5&logoColor=blue&logoSize=auto)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
