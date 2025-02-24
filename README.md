@@ -1,5 +1,8 @@
+<div align="center">
+
 # Привет, меня зовут Максим и я QA Engeneer!
 
+</div>
 <div align="center">
   
 # :technologist: Немного обо мне:
