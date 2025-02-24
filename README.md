@@ -1,6 +1,10 @@
 # Привет, меня зовут Максим и я QA Engeneer!
 
+<div align="center">
+  
 # :technologist: Немного обо мне:
+
+</div>
 
 Интересуюсь новыми технологиями и люблю получать качественные товары и услуги. Здоровый перфекционизм и ответственность помогают качественно и в срок выполнять поставленные задачи. А гибкость и коммуникабельность помогают всегда найти общий язык с людьми. Открыт к новым знаниям и интересным задачам.
 
@@ -9,7 +13,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="170"/>
   
-📩Follow me:
+# 📩Follow me:
 
 [![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue&logoSize=auto)
 ](https://t.me/MaximSinyavsky)
@@ -18,8 +22,11 @@
 [![MY CV](https://img.shields.io/badge/My%20CV-black?style=for-the-badge&logo=readme&logoColor=blue&logoSize=auto)
 ](https://kaliningrad.hh.ru/resume/2a9d6076ff08f5e6c80039ed1f487943595661?hhtmFrom=resume_list)
 </div>
-
+<div align="center">
+  
 # 📃Certificates:
+
+</div>
 
 <div align="center">
   
@@ -65,9 +72,14 @@
   <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-postman-for-api-testing.png" alt="Postman" width="90">
   </a>
   
-  </div>
+</div>
+
+<div align="center">
   
 # 🛠 Skills
+
+</div>
+  
 ![Static Badge](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/githubactions-black?style=for-the-badge&logo=githubactions&logoColor=blue&logoSize=auto)
@@ -99,7 +111,11 @@
 ![Static Badge](https://img.shields.io/badge/restassured-black?style=for-the-badge&logo=restassured&logoColor=blue&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/junite5-black?style=for-the-badge&logo=junite5&logoColor=blue&logoSize=auto)
 
+<div align="center">
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&layout=compact&theme=shadow_blue)
+
+</div>
