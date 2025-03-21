@@ -2,6 +2,9 @@
 
 # Привет, меня зовут Максим и я QA Engeneer!
 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="170"/>
+
 </div>
 <div align="center">
   
@@ -13,8 +16,7 @@
 
 В данный момент активно изучаю Java и основы автоматизации тестирования c применением данного языка и планирую дальнейшее развитие в этом направлении, а также развивать навыки в области CI/CD.
 
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="170"/>
+
   
 # 📩 Связаться со мной
 
@@ -114,7 +116,7 @@
 
 <div align="center">
   
-# 📊 Моя статистика на GitHub
+## 📊 Моя статистика на GitHub
 
 </div>
 
@@ -128,7 +130,7 @@
 
 <div align="center">
 
-# :trophy: Мои достижения
+## :trophy: Мои достижения
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MaximSinyavsky&theme=onedark&margin-w=15)
 
