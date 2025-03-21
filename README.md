@@ -114,7 +114,7 @@
 
 <div align="center">
   
-## 📊 Моя статистика на GitHub
+# 📊 Моя статистика на GitHub
 
 </div>
 
@@ -132,10 +132,8 @@
 
 <div align="center">
 
-## :trophy: Мои достижения
+# :trophy: Мои достижения
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=MaximSinyavsky&theme=onedark&margin-w=15)
 
 </div>
-
-
