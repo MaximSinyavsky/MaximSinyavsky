@@ -117,8 +117,7 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&show_icons=true&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&show&show_icons=true&count_private=true&theme=shadow_blue&include_all_commits=true)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&layout=compact&theme=shadow_blue)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&layout=compact&langs_count=6&theme=shadow_blue)
 </div>
