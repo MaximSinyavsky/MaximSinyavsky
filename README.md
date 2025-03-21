@@ -117,7 +117,10 @@
 <div align="center">
   
 # 📊 GitHub Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaximSinyavsky&theme=shadow_blue)
+<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&show&show_icons=true&count_private=true&theme=shadow_blue&include_all_commits=true)
 <br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&layout=compact&langs_count=6&theme=shadow_blue)
+
 </div>
