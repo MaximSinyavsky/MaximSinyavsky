@@ -20,6 +20,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MaximSinyavsky)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-sinyavsky-42b220234/)
 [![My CV](https://img.shields.io/badge/My_CV-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SBQ1j0KgdAnQH3d4upDYQ0dM50onVVOt/view?usp=drive_link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:razarsinet1991@gmail.com)
 
 </div>
 <div align="center">
