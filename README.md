@@ -18,12 +18,10 @@
   
 # 📩Follow me:
 
-[![Static Badge](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=blue&logoSize=auto)
-](https://t.me/MaximSinyavsky)
-[![Static Badge](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=Linkedin&logoColor=blue&logoSize=auto)
-](https://www.linkedin.com/in/maxim-sinyavsky-42b220234/)
-[![MY CV](https://img.shields.io/badge/My%20CV-black?style=for-the-badge&logo=readme&logoColor=blue&logoSize=auto)
-](https://kaliningrad.hh.ru/resume/2a9d6076ff08f5e6c80039ed1f487943595661?hhtmFrom=resume_list)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MaximSinyavsky)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-sinyavsky-42b220234/)
+[![My CV](https://img.shields.io/badge/My_CV-4285F4?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1SBQ1j0KgdAnQH3d4upDYQ0dM50onVVOt/view?usp=drive_link)
+
 </div>
 <div align="center">
   
