@@ -16,7 +16,7 @@
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="170"/>
   
-# 📩Follow me:
+# 📩 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/MaximSinyavsky)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxim-sinyavsky-42b220234/)
