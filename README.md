@@ -25,59 +25,59 @@
 </div>
 <div align="center">
   
-# 📃Certificates:
+# 📜 Мои сертификаты
 
 </div>
 
 <div align="center">
   
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-final.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-final.png" alt="final" width="100">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-final.png" alt="final" width="120">
   </a>  
   
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-git.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-git.png" alt="Git" width="100">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-git.png" alt="Git" width="120">
   </a>
   
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-linux-terminal.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-linux-terminal.png" alt="Linux terminal" width="100">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-linux-terminal.png" alt="Linux terminal" width="120">
   </a>
   
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-postman.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-postman.png" alt="Postman" width="100">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-postman.png" alt="Postman" width="120">
   </a>
   
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png" alt="SQL" width="100">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-sql.png" alt="SQL" width="120">
   </a>
 
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png" alt="testing theory" width="100">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/vadim-ksendzov-course-certificate-maxim-sinyavsky-test-theory.png" alt="testing theory" width="120">
   </a>
   
   <br>
   
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-interactive-SQL-trainer.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-interactive-SQL-trainer.png" alt="SQL" width="90">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-interactive-SQL-trainer.png" alt="SQL" width="105">
   </a>
 
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-javaScript-for-beginners.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-javaScript-for-beginners.png" alt="JavaScript" width="90">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-javaScript-for-beginners.png" alt="JavaScript" width="105">
   </a>
   
    <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-software-testing-from-scratch-theory%2Bpractice.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-software-testing-from-scratch-theory%2Bpractice.png" alt="Testing" width="90">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-software-testing-from-scratch-theory%2Bpractice.png" alt="Testing" width="105">
   </a>
   
   <a href="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-postman-for-api-testing.png">
-  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-postman-for-api-testing.png" alt="Postman" width="90">
+  <img src="https://github.com/MaximSinyavsky/MaximSinyavsky/blob/main/assets/certificates/stepik-certificate-postman-for-api-testing.png" alt="Postman" width="105">
   </a>
   
 </div>
 
 <div align="center">
   
-# 🛠 Skills
+# 🛠 Мои навыки
 
 </div>
   
@@ -114,11 +114,24 @@
 
 <div align="center">
   
-# 📊 GitHub Stats:
+# 📊 Моя статистика на GitHub
+
+</div>
+
+<div align="center">
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaximSinyavsky&theme=shadow_blue)
-<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&show&show_icons=true&count_private=true&theme=shadow_blue&include_all_commits=true)
-<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaximSinyavsky&show_icons=true&count_private=true&theme=shadow_blue&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaximSinyavsky&layout=compact&langs_count=6&theme=shadow_blue)
 
 </div>
+
+<div align="center">
+
+# :trophy: Мои достижения
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=MaximSinyavsky&theme=onedark&margin-w=15)
+
+</div>
+
+
